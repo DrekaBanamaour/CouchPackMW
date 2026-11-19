@@ -1,0 +1,13 @@
+# Couch Pack file list - made by the Publish button. sha256 size path
+version=2026-11-18.1
+e4a0d75684583935ee5f78ce49df67fbde3ff2071b71b4666e782a7708b86b73 123648 payload/patch/Assets/CommonAssets.szs/@root/boo.brres
+5fb560ab0dbd62b176ef92c3401fa735582244b59edeff2930b4d13378701bbb 8960 payload/patch/Assets/CommonAssets.szs/@root/cp_ghost.brres
+df103d2ac2f1403869fecda3c1cfa57bb1d5fb61e092293f53ccacd983301b44 8960 payload/patch/Assets/CommonAssets.szs/@root/cp_nitro.brres
+de00c4058267174c3b1093db4716908c63de13a72917979e352d0a7f6be4ce8e 69888 payload/patch/Assets/CommonAssets.szs/@root/dice.brres
+2908225fa8afb8d0c351316d62402325b5f98bd4023beaedd1d91525342163d0 8256 payload/patch/Assets/UIAssets.szs/@itemicons/tt_item_boo.tpl
+3acc9f8990ad18f081d324be6da91c5792fed786de9e51f45ba6a7482f6e50e7 8256 payload/patch/Assets/UIAssets.szs/@itemicons/tt_item_ghost.tpl
+a4cd4443fd9605ddedbb9eefe07595fc3fabee495a36a7cfd4a98caa44bcf44b 8256 payload/patch/Assets/UIAssets.szs/@itemicons/tt_item_nitro.tpl
+c2ddac8c63afe792691b5ed4cb2cf2f964279fa52e74bd7815aec70a7d78abb9 949696 payload/replace/Assets/RaceAssets.szs
+415db894d7723680be310d9257b78a431d35bf3d16738a6aea701b30ce6d2582 1819876 payload/replace/Binaries/Code.pul
+277f84d2d0e61db81134548d559fca04fa816e7d16e763e1fbeb9906d5a854d9 3467914 payload/replace/UI/Title.szs
+398ba3d262e4d98ddd078ac8bcf9886b83d002d6765fbd7740a868c56b13bddb 739726 payload/replace/UI/Title_U.szs
