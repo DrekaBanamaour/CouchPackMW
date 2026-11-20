@@ -1,14 +1,14 @@
 # Couch Pack file list - made by Couch Pack Builder. sha256 size path
-version=2026-11-19.2006
+version=2026-11-19.2201
 e4a0d75684583935ee5f78ce49df67fbde3ff2071b71b4666e782a7708b86b73 123648 payload/patch/Assets/CommonAssets.szs/@root/boo.brres
 a041cc2d66666db5908087aa8e9c67c517214edf7632954a3cbac16b404c88fd 12672 payload/patch/Assets/CommonAssets.szs/@root/cp_coin.brres
-5fb560ab0dbd62b176ef92c3401fa735582244b59edeff2930b4d13378701bbb 8960 payload/patch/Assets/CommonAssets.szs/@root/cp_ghost.brres
-df103d2ac2f1403869fecda3c1cfa57bb1d5fb61e092293f53ccacd983301b44 8960 payload/patch/Assets/CommonAssets.szs/@root/cp_nitro.brres
+f8f39be48f19c4021f457e68644d287662d3958e65889ded4b396094205cab7f 8960 payload/patch/Assets/CommonAssets.szs/@root/cp_ghost.brres
+74a9c072c2e21d3976907371e42bcba1d646e2f891be07af75ece47167a17422 8960 payload/patch/Assets/CommonAssets.szs/@root/cp_nitro.brres
 de00c4058267174c3b1093db4716908c63de13a72917979e352d0a7f6be4ce8e 69888 payload/patch/Assets/CommonAssets.szs/@root/dice.brres
 2908225fa8afb8d0c351316d62402325b5f98bd4023beaedd1d91525342163d0 8256 payload/patch/Assets/UIAssets.szs/@itemicons/tt_item_boo.tpl
 3acc9f8990ad18f081d324be6da91c5792fed786de9e51f45ba6a7482f6e50e7 8256 payload/patch/Assets/UIAssets.szs/@itemicons/tt_item_ghost.tpl
 a4cd4443fd9605ddedbb9eefe07595fc3fabee495a36a7cfd4a98caa44bcf44b 8256 payload/patch/Assets/UIAssets.szs/@itemicons/tt_item_nitro.tpl
-2de0537834321e2e5375c636cc0fed5da6b7d3a57775db65bb8a9c0131935145 230053 payload/replace/Assets/RaceAssets.szs
-0fe4b30617235846b839b6130d332a1d8b310e20f95ebc77bd68cbf158c4ecd1 1902268 payload/replace/Binaries/Code.pul
+e77ef87b984138a9c0fe7bb67d8cbe8ab4159bc7965706919334b339648a2292 229929 payload/replace/Assets/RaceAssets.szs
+fbe91a70bad84bbdda9ddf3c30f36bbc90f8aef7189c056329da8c37ed8e3fa3 1909024 payload/replace/Binaries/Code.pul
 277f84d2d0e61db81134548d559fca04fa816e7d16e763e1fbeb9906d5a854d9 3467914 payload/replace/UI/Title.szs
 398ba3d262e4d98ddd078ac8bcf9886b83d002d6765fbd7740a868c56b13bddb 739726 payload/replace/UI/Title_U.szs
