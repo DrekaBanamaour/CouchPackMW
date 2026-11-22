@@ -1,5 +1,5 @@
 # Couch Pack file list - made by Couch Pack Builder. sha256 size path
-version=2026-11-21.1952
+version=2026-11-21.2003
 e4a0d75684583935ee5f78ce49df67fbde3ff2071b71b4666e782a7708b86b73 123648 payload/patch/Assets/CommonAssets.szs/@root/boo.brres
 5a83e2740c03b709c9a5e9aac5182a185ad67e36510b56a698bd92504f28d301 48800 payload/patch/Assets/CommonAssets.szs/@root/cp_coin.brres
 f8f39be48f19c4021f457e68644d287662d3958e65889ded4b396094205cab7f 8960 payload/patch/Assets/CommonAssets.szs/@root/cp_ghost.brres
@@ -9,6 +9,6 @@ de00c4058267174c3b1093db4716908c63de13a72917979e352d0a7f6be4ce8e 69888 payload/p
 3acc9f8990ad18f081d324be6da91c5792fed786de9e51f45ba6a7482f6e50e7 8256 payload/patch/Assets/UIAssets.szs/@itemicons/tt_item_ghost.tpl
 a4cd4443fd9605ddedbb9eefe07595fc3fabee495a36a7cfd4a98caa44bcf44b 8256 payload/patch/Assets/UIAssets.szs/@itemicons/tt_item_nitro.tpl
 13b2c67273285fc2a4c96352e96eb3f63b2c2984021e991d6b8f457b921721da 269865 payload/replace/Assets/RaceAssets.szs
-565ea2e4eb6abf399aa58b139d0993f75f92cf2452088e765038d5d031f5af12 2084428 payload/replace/Binaries/Code.pul
+bf7107d5522e10c18d447e5437e0e9422d47c2784fb97f3cdb3afa0a75676af8 2085736 payload/replace/Binaries/Code.pul
 277f84d2d0e61db81134548d559fca04fa816e7d16e763e1fbeb9906d5a854d9 3467914 payload/replace/UI/Title.szs
 398ba3d262e4d98ddd078ac8bcf9886b83d002d6765fbd7740a868c56b13bddb 739726 payload/replace/UI/Title_U.szs
